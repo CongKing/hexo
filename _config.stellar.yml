@@ -1,0 +1,12 @@
+sidebar:
+  menu:
+    post: '[博客](/)'
+    wiki: '[项目](/wiki/)'
+    notes: '[便签](/notes/)'
+    more: '[更多](/more/)'
+    
+comments:
+  service: valine
+  valine:
+    appId: # your appId
+    appKey: # your appKey

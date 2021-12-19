@@ -1,0 +1,7 @@
+welcome:
+  layout: markdown
+  title: welcome
+  content:
+    - 你后悔吗？
+    - 不后悔
+    - 只是遗憾，满满的都是遗憾
